@@ -5,71 +5,73 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
 </div>
 
-<!-- [English](./README-en.md) | 简体中文 -->
+English | [简体中文](./README-zh.md)
 
-## 什么是 `Note protocol` 协议?
-Note protocol是比特币上第一个智能合约解决方案。在比特币不做任何更改的前提下，采用链上资产确权+链下合约运行时的组合方式为比特币开起智能合约新时代。协议使用了比特币原生脚本功能（字节码 Opcodes），链下索引器，sCrypt高级编程语言以及BVM虚拟机等技术，由李龙团队贡献。2024年2月14日协议发行第一个资产币NOTE，总量2100万，采用固定bitwork(挖矿难度)与合约逻辑控制挖矿数量减半机制相结合的方式公开公平挖矿。
+## What is the `Note Protocol`?
 
-- [协议官网](https://noteprotocol.org/zh/)
-- [浏览器](https://explorer.noteprotocol.org/)
-- [协议文档](https://noteprotocol.org/zh/docs/protocol/)
+The Note Protocol is the first smart contract solution on Bitcoin. Without making any changes to Bitcoin, it introduces a new era of smart contracts on Bitcoin by combining on-chain asset confirmation and off-chain contract runtime. The protocol uses Bitcoin's native scripting functionality (bytecode Opcodes), an off-chain indexer, the sCrypt high-level programming language, and the BVM virtual machine. It was developed by the team led by Lilong. On February 14, 2024, the first asset token of the protocol, NOTE, was issued, with a total supply of 21 million. The protocol combines fixed bitwork (mining difficulty) with contract logic to control the halving mechanism of mining output in a fair and public manner.
 
-## 资源链接
+- [Protocol Website](https://noteprotocol.org/en/)
+- [Explorer](https://explorer.noteprotocol.org/)
+- [Protocol Documentation](https://noteprotocol.org/en/docs/protocol/)
 
-### 交易所
-- [xt.com：第一个上线Note的cex](https://www.xt.com/zh-CN/trade/note_usdt)
-- [utxo.exchange：dex，李龙团队出品，交易送积分，有空投预期](https://utxo.exchange/zh/n20)
-- [notemarket.io：dex，社区贡献](https://alpha.notemarket.io/)
+## Resource Links
 
-### 钱包
-- [NoteWallet：命令行钱包，李龙团队出品，Ts语言](https://github.com/NoteProtocol/NoteWallet)
-- [pyNoteWallet：命令行钱包，社区贡献，Python语言](https://github.com/NoteScan/pyNoteWallet)
-- [ChainBow：移动端钱包，李龙团队出品](https://chainbow.io/)
-- [notemarket-wallet：chrome插件钱包，社区贡献](https://github.com/notemarketio/notemarket-wallet)
-- [Okx wallet：欧易交易所的钱包，有chrome插件，移动端，桌面端](https://www.okx.com/zh-hans/web3)
-- [Unisat：chrome插件钱包](https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo?utm_source=ext_app_menu)
-- [notebow：PC端note钱包，社区贡献](https://notebow.org/)
+### Exchanges
+- [xt.com: The first CEX to list Note](https://www.xt.com/en/trade/note_usdt)
+- [utxo.exchange: DEX, developed by Lilong's team, trading rewards points with airdrop expectations](https://utxo.exchange/en/n20)
+- [notemarket.io: DEX, community contribution](https://alpha.notemarket.io/)
 
-### 基础服务/工具
-- [urchain：Bitcoin & Note api数据服务](https://btc.urchain.com/)
-- [n20-connect：连接钱包套件](https://github.com/NoteScan/pyNoteWallet)
-- [N-Deployer：N20代币部署程序](https://github.com/NoteScan/N-Deployer)
-- [go-urchain：urchain服务的go sdk](https://github.com/xianb/go-urchain)
-- [pyNoteMinter：Python写的挖矿程序](https://github.com/NoteScan/pyNoteWallet)
-- [N20BulkSender：批量发送N20 Token](https://github.com/notenationio/N20BulkSender)
+### Wallets
+- [NoteWallet: Command-line wallet, developed by Lilong's team, in TypeScript](https://github.com/NoteProtocol/NoteWallet)
+- [pyNoteWallet: Command-line wallet, community contribution, in Python](https://github.com/NoteScan/pyNoteWallet)
+- [ChainBow: Mobile wallet, developed by Lilong's team](https://chainbow.io/)
+- [notemarket-wallet: Chrome extension wallet, community contribution](https://github.com/notemarketio/notemarket-wallet)
+- [Okx wallet: OKX exchange wallet, available as a Chrome extension, mobile, and desktop](https://www.okx.com/web3)
+- [Unisat: Chrome extension wallet](https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoccbgbkpo?utm_source=ext_app_menu)
+- [notebow: PC Note wallet, community contribution](https://notebow.org/)
 
-### 合约相关
-- [快速开发合约教程](https://noteprotocol.org/zh/docs/tutorial/quick-start)
-- [scryptdemo：离线智能合约开发模板](https://github.com/NoteProtocol/scryptdemo)
-- [note-contract：智能合约开发模板](https://github.com/NoteProtocol/note-contract)
-- [scrypt-verify：索引器的合约校验逻辑 ](https://github.com/NoteProtocol/scrypt-verify)
-- [N20-WuKong：动态难度调节合约](https://github.com/NoteScan/N20-WuKong)
-- [Scrypt官方文档](https://docs.scrypt.io/)
-- [Scrypt medium文章](https://scryptplatform.medium.com/)
+### Basic Services/Tools
+- [urchain: Bitcoin & Note API data service](https://btc.urchain.com/)
+- [n20-connect: Wallet connection kit](https://github.com/NoteScan/pyNoteWallet)
+- [N-Deployer: N20 token deployment program](https://github.com/NoteScan/N-Deployer)
+- [go-urchain: Go SDK for urchain service](https://github.com/xianb/go-urchain)
+- [pyNoteMinter: Mining program written in Python](https://github.com/NoteScan/pyNoteWallet)
+- [N20BulkSender: Bulk sender for N20 tokens](https://github.com/notenationio/N20BulkSender)
 
-### 访谈/教程视频
-- [对话Note Protoco李龙：BTC一层如何实现智能合约？](https://www.youtube.com/watch?v=1TFwDenQv7Y)
-- [比特币UTXO模型智能合约入门](https://www.youtube.com/watch?v=odK4tYwYlaY)
-- [CAT20比特币智能合约入门](https://www.youtube.com/watch?v=D_TEgwvSw8g)
+### Contract-Related
+- [Quick Start Tutorial for Contract Development](https://noteprotocol.org/en/docs/tutorial/quick-start)
+- [scryptdemo: Offline smart contract development template](https://github.com/NoteProtocol/scryptdemo)
+- [note-contract: Smart contract development template](https://github.com/NoteProtocol/note-contract)
+- [scrypt-verify: Contract verification logic for the indexer](https://github.com/NoteProtocol/scrypt-verify)
+- [N20-WuKong: Dynamic difficulty adjustment contract](https://github.com/NoteScan/N20-WuKong)
+- [Official Scrypt Documentation](https://docs.scrypt.io/)
+- [Scrypt Medium Articles](https://scryptplatform.medium.com/)
 
-### 科普文章
-- [李龙个人博客](https://lilong.net/)
-- [实现中本聪最初愿景？原教旨主义的Note Protocol将原生智能合约带进比特币生态](https://medium.com/@NoteNation/%E5%AE%9E%E7%8E%B0%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%9C%80%E5%88%9D%E6%84%BF%E6%99%AF-%E5%8E%9F%E6%95%99%E6%97%A8%E4%B8%BB%E4%B9%89%E7%9A%84note-protocol%E5%B0%86%E5%8E%9F%E7%94%9F%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%B8%A6%E8%BF%9B%E6%AF%94%E7%89%B9%E5%B8%81%E7%94%9F%E6%80%81-06e63e8b6350)
-- [Note Protocol是如何让原生智能合约在比特币上运行的](https://medium.com/@NoteNation/note-protocol%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%A9%E5%8E%9F%E7%94%9F%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%9C%A8%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%8A%E8%BF%90%E8%A1%8C%E7%9A%84-3506a47f3aa9)
-- [为什么比特币需要智能合约？](https://medium.com/@NoteNation/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E7%89%B9%E5%B8%81%E9%9C%80%E8%A6%81%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6-0f8d037db51e)
+### Interviews/Tutorial Videos
+- [Conversation with Lilong: How to Achieve Smart Contracts on Bitcoin Layer 1?](https://www.youtube.com/watch?v=1TFwDenQv7Y)
+- [Introduction to Bitcoin UTXO Model Smart Contracts](https://www.youtube.com/watch?v=odK4tYwYlaY)
+- [Introduction to CAT20 Bitcoin Smart Contracts](https://www.youtube.com/watch?v=D_TEgwvSw8g)
 
-### 测试网水龙头
+### Educational Articles
+- [Lilong's Personal Blog](https://lilong.net/)
+- [Realizing Satoshi Nakamoto’s Original Vision? Note Protocol Brings Native Smart Contracts into the Bitcoin Ecosystem](https://medium.com/@NoteNation/realizing-satoshi-nakamotos-original-vision-afb6e351cf17)
+- [Repost: NOTE Protocol — A New Milestone in Bitcoin Smart Contracts](https://medium.com/coinmonks/repost-note-protocol-a-new-milestone-in-bitcoin-smart-contracts-1dfaa4ea341b)
+- [Why Does Bitcoin Need Smart Contracts?](https://medium.com/coinmonks/why-does-bitcoin-need-smart-contracts-10e596f867a9)
+- [How Note Protocol Enables Native Smart Contracts on Bitcoin](https://medium.com/coinmonks/how-note-protocol-enables-native-smart-contracts-on-bitcoin-fbbff88b6160)
+
+### Testnet Faucets
 - [testnet4.anyone.eu.org](https://testnet4.anyone.eu.org/)
-- [mempool.space](https://mempool.space/zh/testnet4/faucet)
+- [mempool.space](https://mempool.space/testnet4/faucet)
 - [bitcoinfaucet.uo1.net](https://bitcoinfaucet.uo1.net/send.php)
 
-### 技术支持
-- [李龙推特账号](https://x.com/lilong)
-- [电报群](https://t.me/NoteProtocol_org)
+### Technical Support
+- [Lilong's Twitter](https://x.com/lilong)
+- [Telegram Group](https://t.me/NoteProtocol_org)
 
-### 免责声明
-本项目中的所有内容仅供参考，不构成任何形式的投资建议或法律建议。使用本项目所提供的任何信息或服务时，您需自行承担风险。我们不对因使用本项目而产生的任何直接或间接损失负责。请在使用前仔细阅读并理解相关条款和条件。
+### Disclaimer
+All content in this project is for reference only and does not constitute any form of investment advice or legal advice. You assume the risks when using any information or services provided by this project. We are not responsible for any direct or indirect losses resulting from the use of this project. Please read and understand the relevant terms and conditions before use.
 
-本项目中的链接仅为方便用户而提供，我们不对这些外部网站的内容或准确性负责。访问这些链接时，您需自行承担风险。
+The links provided in this project are for the convenience of users, and we are not responsible for the content or accuracy of these external websites. You assume the risks when accessing these links.
 
-本项目中的所有内容均为作者个人观点，不代表任何组织或机构的立场。我们保留随时修改或删除本项目内容的权利，恕不另行通知。
+All content in this project reflects the personal views of the authors and does not represent the positions of any organization or institution. We reserve the right to modify or delete the content of this project at any time without prior notice.
