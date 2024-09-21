@@ -11,9 +11,9 @@ English | [简体中文](./README-zh.md)
 
 The Note Protocol is the first smart contract solution on Bitcoin. Without making any changes to Bitcoin, it introduces a new era of smart contracts on Bitcoin by combining on-chain asset confirmation and off-chain contract runtime. The protocol uses Bitcoin's native scripting functionality (bytecode Opcodes), an off-chain indexer, the sCrypt high-level programming language, and the BVM virtual machine. It was developed by the team led by Lilong. On February 14, 2024, the first asset token of the protocol, NOTE, was issued, with a total supply of 21 million. The protocol combines fixed bitwork (mining difficulty) with contract logic to control the halving mechanism of mining output in a fair and public manner.
 
-- [Protocol Website](https://noteprotocol.org/en/)
+- [Protocol Website](https://noteprotocol.org/)
 - [Explorer](https://explorer.noteprotocol.org/)
-- [Protocol Documentation](https://noteprotocol.org/en/docs/protocol/)
+- [Protocol Documentation](https://noteprotocol.org/docs/protocol/)
 
 ## Resource Links
 
@@ -40,7 +40,7 @@ The Note Protocol is the first smart contract solution on Bitcoin. Without makin
 - [N20BulkSender: Bulk sender for N20 tokens](https://github.com/notenationio/N20BulkSender)
 
 ### Contract-Related
-- [Quick Start Tutorial for Contract Development](https://noteprotocol.org/en/docs/tutorial/quick-start)
+- [Quick Start Tutorial for Contract Development](https://noteprotocol.org/docs/tutorial/quick-start)
 - [scryptdemo: Offline smart contract development template](https://github.com/NoteProtocol/scryptdemo)
 - [note-contract: Smart contract development template](https://github.com/NoteProtocol/note-contract)
 - [scrypt-verify: Contract verification logic for the indexer](https://github.com/NoteProtocol/scrypt-verify)
