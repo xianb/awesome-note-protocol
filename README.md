@@ -18,11 +18,11 @@ Note protocol是比特币上第一个智能合约解决方案。在比特币不�
 
 ### 交易所
 - [xt.com：第一个上线Note的cex](https://www.xt.com/zh-CN/trade/note_usdt)
-- [utxo.exchange：dex，李龙团队出品，交易有积分，有空投预期](https://utxo.exchange/zh/n20)
+- [utxo.exchange：dex，李龙团队出品，交易送积分，有空投预期](https://utxo.exchange/zh/n20)
 - [notemarket.io：dex，社区贡献](https://alpha.notemarket.io/)
 
 ### 钱包
-- [NoteWallet：命令行钱包，官方出品，Ts语言](https://github.com/NoteProtocol/NoteWallet)
+- [NoteWallet：命令行钱包，李龙团队出品，Ts语言](https://github.com/NoteProtocol/NoteWallet)
 - [pyNoteWallet：命令行钱包，社区贡献，Python语言](https://github.com/NoteScan/pyNoteWallet)
 - [ChainBow：移动端钱包，李龙团队出品](https://chainbow.io/)
 - [notemarket-wallet：chrome插件钱包，社区贡献](https://github.com/notemarketio/notemarket-wallet)
@@ -49,11 +49,11 @@ Note protocol是比特币上第一个智能合约解决方案。在比特币不�
 
 ### 访谈/教程视频
 - [对话Note Protoco李龙：BTC一层如何实现智能合约？](https://www.youtube.com/watch?v=1TFwDenQv7Y)
-- [CAT20比特币智能合约入门](https://www.youtube.com/watch?v=D_TEgwvSw8g)
 - [比特币UTXO模型智能合约入门](https://www.youtube.com/watch?v=odK4tYwYlaY)
+- [CAT20比特币智能合约入门](https://www.youtube.com/watch?v=D_TEgwvSw8g)
 
 ### 科普文章
-- [Note作者李龙个人博客](https://lilong.net/)
+- [李龙个人博客](https://lilong.net/)
 - [实现中本聪最初愿景？原教旨主义的Note Protocol将原生智能合约带进比特币生态](https://medium.com/@NoteNation/%E5%AE%9E%E7%8E%B0%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%9C%80%E5%88%9D%E6%84%BF%E6%99%AF-%E5%8E%9F%E6%95%99%E6%97%A8%E4%B8%BB%E4%B9%89%E7%9A%84note-protocol%E5%B0%86%E5%8E%9F%E7%94%9F%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%B8%A6%E8%BF%9B%E6%AF%94%E7%89%B9%E5%B8%81%E7%94%9F%E6%80%81-06e63e8b6350)
 - [Note Protocol是如何让原生智能合约在比特币上运行的](https://medium.com/@NoteNation/note-protocol%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%A9%E5%8E%9F%E7%94%9F%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%9C%A8%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%8A%E8%BF%90%E8%A1%8C%E7%9A%84-3506a47f3aa9)
 - [为什么比特币需要智能合约？](https://medium.com/@NoteNation/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E7%89%B9%E5%B8%81%E9%9C%80%E8%A6%81%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6-0f8d037db51e)
@@ -66,3 +66,10 @@ Note protocol是比特币上第一个智能合约解决方案。在比特币不�
 ### 技术支持
 - [李龙推特账号](https://x.com/lilong)
 - [电报群](https://t.me/NoteProtocol_org)
+
+### 免责声明
+本项目中的所有内容仅供参考，不构成任何形式的投资建议或法律建议。使用本项目所提供的任何信息或服务时，您需自行承担风险。我们不对因使用本项目而产生的任何直接或间接损失负责。请在使用前仔细阅读并理解相关条款和条件。
+
+本项目中的链接仅为方便用户而提供，我们不对这些外部网站的内容或准确性负责。访问这些链接时，您需自行承担风险。
+
+本项目中的所有内容均为作者个人观点，不代表任何组织或机构的立场。我们保留随时修改或删除本项目内容的权利，恕不另行通知。
