@@ -51,6 +51,7 @@ Note protocol是比特币上第一个智能合约解决方案。在比特币不�
 - [对话Note Protoco李龙：BTC一层如何实现智能合约？](https://www.youtube.com/watch?v=1TFwDenQv7Y)
 - [比特币UTXO模型智能合约入门](https://www.youtube.com/watch?v=odK4tYwYlaY)
 - [CAT20比特币智能合约入门](https://www.youtube.com/watch?v=D_TEgwvSw8g)
+- [探索比特币智能合约协议](https://www.youtube.com/watch?v=h4IQhnMzuRM)
 
 ### 科普文章
 - [李龙个人博客](https://lilong.net/)

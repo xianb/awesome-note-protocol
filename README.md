@@ -52,6 +52,7 @@ The Note Protocol is the first smart contract solution on Bitcoin. Without makin
 - [Conversation with Lilong: How to Achieve Smart Contracts on Bitcoin Layer 1?](https://www.youtube.com/watch?v=1TFwDenQv7Y)
 - [Introduction to Bitcoin UTXO Model Smart Contracts](https://www.youtube.com/watch?v=odK4tYwYlaY)
 - [Introduction to CAT20 Bitcoin Smart Contracts](https://www.youtube.com/watch?v=D_TEgwvSw8g)
+- [Exploring Bitcoin Smart Contract Protocols](https://www.youtube.com/watch?v=h4IQhnMzuRM)
 
 ### Educational Articles
 - [Lilong's Personal Blog](https://lilong.net/)
